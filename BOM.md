@@ -8,7 +8,7 @@
 
 | Week | Tier | Parts funding |
 | --- | --- | --- |
-| Week 1 | Tier 2 | $65.00 |
+| Week 1 | Tier 1 | $30.00 |
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
@@ -16,12 +16,10 @@
 | [0.96" OLED](https://lilygo.cc/en-us/products/0-96-inch-oled?srsltid=AU7gw4Xo0LLGcPhCm15p2THvICLGoL9e_kzYmc6CCDenfcRfcfp3CDCZ) | Display | 1 | $2.50 | $2.50 | [LilyGo](https://lilygo.cc/en-us/products/0-96-inch-oled?srsltid=AU7gw4Xo0LLGcPhCm15p2THvICLGoL9e_kzYmc6CCDenfcRfcfp3CDCZ) |
 | [MPU6050](https://www.ebay.com/itm/170881535422?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item) | Gyroscope | 1 | $2.29 | $2.29 | [EBay](https://www.ebay.com/itm/170881535422?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item) |
 | [DHT11](https://www.adafruit.com/product/386?srsltid=AU7gw4UjzMGeLMIzODNCHf76YzeZTfT2tLIA2TnPeSra5yNevl4yPcj8) | Temperature/Humidity Sensor | 1 | $5.00 | $5.00 | [Adafruit](https://www.adafruit.com/product/386?srsltid=AU7gw4UjzMGeLMIzODNCHf76YzeZTfT2tLIA2TnPeSra5yNevl4yPcj8) |
-| [MX Switches](https://mechanicalkeyboards.com/products/cherry-mx-red-45g-linear?variant=47357318857004) | Buttons | 4 | $0.28 | $1.12 | [MechanicalKeyboards](https://mechanicalkeyboards.com/products/cherry-mx-red-45g-linear?variant=47357318857004) |
-| [Keycaps](https://www.kromekeycaps.com/en-us/products/blank-pbt-keycaps-any-row-lots-of-colours?variant=44049441390824) | Buttons | 4 | $2.00 | $8.00 | [Krome Keycaps](https://www.kromekeycaps.com/en-us/products/blank-pbt-keycaps-any-row-lots-of-colours?variant=44049441390824) |
 | [PCB](https://jlcpcb.com) | Circuit Board | 1 | $10.00 | $10.00 | [JLCPCB](https://jlcpcb.com) |
 | [10k Resistor](https://www.jameco.com/z/CF1W103JRC-Jameco-ValuePro-Resistor-Carbon-Film-10k-Ohm-1-Watt-5-_2237221.html?srsltid=AU7gw4XiPCAGHETYphiDBG9AbXly-vLFmRCPhLZG59gjwPFWarAGbRCLcUg) | Resistor | 1 | $0.14 | $0.14 | [Jameco](https://www.jameco.com/z/CF1W103JRC-Jameco-ValuePro-Resistor-Carbon-Film-10k-Ohm-1-Watt-5-_2237221.html?srsltid=AU7gw4XiPCAGHETYphiDBG9AbXly-vLFmRCPhLZG59gjwPFWarAGbRCLcUg) |
-| **Parts subtotal** | — | — | — | **$34.05** | — |
+| **Parts subtotal** | — | — | — | **$24.93** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$34.05** | — |
+| **Total** | — | — | — | **$24.93** | — |
 
-$30.95 left of the tier's funding.
+$5.07 left of the tier's funding.

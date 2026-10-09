@@ -6,11 +6,11 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Omi is a desktop pet that studies with you, or sleeps when ignored.
+> Omi is a simple desktop companion. Functionality includes date/time, timer, stopwatch, countdown, and audio visualizer which responds to the sounds in your working space (e.g. typing). It can also display humidity and temperature of your working space. It's a device that is for the most part single-purpose, meaning it doesn't occupy more of your attention than it needs.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 13h | 2 |
+| Week 1 | Tier 1 | 13h | 2 |
 
 ## Contents
 
