@@ -10,7 +10,6 @@ from pytest_embedded_idf.utils import idf_parametrize
 from pytest_embedded_qemu.app import QemuApp
 from pytest_embedded_qemu.dut import QemuDut
 
-
 @pytest.mark.generic
 @idf_parametrize('target', ['supported_targets', 'preview_targets'], indirect=['target'])
 def test_hello_world(dut: IdfDut, log_minimum_free_heap_size: Callable[..., None]) -> None:
