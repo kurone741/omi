@@ -1,0 +1,2 @@
+source /home/yijia/projects/omi/firmware/build/gdbinit/symbols
+source /home/yijia/projects/omi/firmware/build/gdbinit/connect
